@@ -1,0 +1,21 @@
+{
+  "name": "potluck-js",
+  "version": "0.0.1",
+  "description": "",
+  "author": "sridharan jayabal",
+  "license": "Apache License",
+  "repository": "sridharan21994/potluck.js",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "dependencies": {
+  
+  },
+  "devDependencies": {
+  }
+}
+
